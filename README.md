@@ -40,14 +40,14 @@ INFORMACIÓN GENERAL:
 
 
 
-1.	OBJETIVOS:
+1.OBJETIVOS:
 
 1.1.	OBJETIVO GENERAL:
 
 Verificar y emplear el uso de las leyes de Kirchhoff a partir del circuito empleado en el laboratorio, usando el equipo correcto y adecuado, de forma que sea útil para el desarrollo de la práctica.
 Aprender e indagar de manera mas detallada, acerca de los conceptos que vamos a emplear a través del desarrollo de laboratorio. 
 
-1.2.	OBJETIVOS ESPECIFICOS:
+1.2.OBJETIVOS ESPECIFICOS:
 
 •	Inferir las Leyes de Kirchhoff basándose en los resultados experimentales del ejercicio propuesto.
 
@@ -57,7 +57,7 @@ Aprender e indagar de manera mas detallada, acerca de los conceptos que vamos a 
 
 •	Determinar las causas porcentuales de error presentes en las diferentes mediciones.
 
-2.	MARCO TEORICO:
+2.MARCO TEORICO:
 
 Las leyes (o Lemas) de Kirchhoff fueron formuladas por Gustav Kirchhoff en 1845. Son muy utilizadas en ingeniería eléctrica para obtener los valores de la corriente y el potencial en cada punto de un circuito eléctrico. Surgen de la aplicación de la ley de conservación de la energía.
 
@@ -68,19 +68,19 @@ ley de nodos. La ley de corrientes de Kirchhoff nos dice que: En cualquier nodo,
 
 ![image](https://user-images.githubusercontent.com/105386939/171549484-36e422c8-dfe6-46fd-bf7b-8f3d78b06992.png)
 
-2.2.	 Ley de volatjes Kirchhoff:  Esta ley es llamada también ley de lazos de Kirchhoff o ley de mallas de Kirchhoff, esta ley nos dice que: En un lazo cerrado, la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente, la suma algebraica de las diferencias de potencial eléctrico en un lazo es igual a cero.
+2.2.	Ley de volatjes Kirchhoff:  Esta ley es llamada también ley de lazos de Kirchhoff o ley de mallas de Kirchhoff, esta ley nos dice que: En un lazo cerrado, la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente, la suma algebraica de las diferencias de potencial eléctrico en un lazo es igual a cero.
 
 ![image](https://user-images.githubusercontent.com/105386939/171549725-2dbedb72-8c8b-487d-a928-f63e3862bcd4.png)
 
 ![image](https://user-images.githubusercontent.com/105386939/171549732-fda6f7ab-714b-41e2-8372-3da659a875f3.png)
 
-2.3.	Código de colores para obtener el valor de las resistencias. 
+2.3.Código de colores para obtener el valor de las resistencias. 
 
 Las dos primeras franjas desde la izquierda, indican las primeras cifras del valor del componente, mientras que una tercera indica por cuanto debe multiplicarse el valor dela cifra leída. La última franja, más separada del resto, y típicamente de color dorado o plata, indica la tolerancia, es decir, el margen de error que garantiza el fabricante. Enel caso de las resistencias de precisión, se cuenta con seis bandas de colores: las tres primeras indican cifras, la cuarta el multiplicador, la quinta la tolerancia y la sexta, el coeficiente de temperatura. El resto de franjas indica la mantisa (cifras significativas) y el exponente del valor nominal. 
 
 ![image](https://user-images.githubusercontent.com/105386939/171549832-30dd749f-76ce-4fa4-9caa-e5f84f4e507d.png)
 
-3.	EXPLICACION DEL PROCEDIMIENTO:
+3.EXPLICACION DEL PROCEDIMIENTO:
 
 3.1.	Medir la intensidad de corriente eléctrica. 
 
