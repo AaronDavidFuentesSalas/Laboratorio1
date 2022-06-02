@@ -113,6 +113,8 @@ Expresa que "la energía no se crea ni se destruye, se transforma". Esto quiere 
 ![ ](https://github.com/AaronDavidFuentesSalas/Laboratorio1/blob/main/3.jpg)
 ![ ](https://github.com/AaronDavidFuentesSalas/Laboratorio1/blob/main/4.jpg)
 
+![image](https://user-images.githubusercontent.com/105386939/171634104-ef5482cb-1517-4ece-9701-9b37004e4f66.png)
+
 5.	VIDEO:
 
 https://youtu.be/ZKvZs7W80jI
